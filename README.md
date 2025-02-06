@@ -9,6 +9,5 @@ _Note: Some of the examples can require webserwer - simpliest solution is to ins
 - [Basics - Viewer Full Screen](https://alterproduct.github.io/examples-vanilla-js/basics-viewer-full-screen)
 - [Basics - Viewer Styling](https://alterproduct.github.io/examples-vanilla-js/basics-viewer-styling)
 - [Basics - Video 360 Product](https://alterproduct.github.io/examples-vanilla-js/basics-video-360-product-loop)
-- [Basics - Viewer Styling](https://alterproduct.github.io/examples-vanilla-js/basics-viewer-styling)
 - [Advanced - Video Controls Hover](https://alterproduct.github.io/examples-vanilla-js/advanced-video-controls-hover)
-- [Advanced - Product Image Gallery](https://alterproduct.github.io/examples-vanilla-js/advanced-product-image-gallery)
+- [Advanced - Product Media Gallery](https://alterproduct.github.io/examples-vanilla-js/advanced-product-media-gallery)
