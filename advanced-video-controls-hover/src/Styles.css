@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+video {
+  background-color: white !important;
+  outline: none;
+  clip-path: inset(-10px);
+  outline: none;
+  border: none;
+
+  width: 340px !important;
+  height: 340px !important;
+  object-fit: cover;
+
+  border: 1px solid grey;
+  cursor: pointer !important;
+}
+
+video:hover {
+  border-color: black;
+}
+
+.vjs-poster {
+  background-color: transparent !important;
+}
+
+video:focus {
+  outline: none;
+}

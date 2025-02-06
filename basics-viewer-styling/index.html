@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Docs Basics - Viewer Full Screen</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body,
+    #root {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      display: grid;
+      justify-content: center;
+      align-items: center;
+    }
+
+    iframe {
+      display: block;
+      border-radius: 14px;
+    }
+
+    #wrapper {
+      height: 320px;
+      width: 400px;
+      background: linear-gradient(0deg, rgba(0, 43, 133, 1) 0%, rgba(0, 182, 215, 1) 100%);
+      border-radius: 14px;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="wrapper">
+    <iframe loading="lazy" title="Product Viewer" src="https://alterproduct.com/app/viewer/5z?bcg=i16" width="100%"
+      height="100%" frameBorder="0" allowFullScreen></iframe>
+  </div>
+</body>
+
+</html>
