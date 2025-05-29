@@ -174,7 +174,7 @@ function displayMedia(index, type) {
       const iframe = document.createElement('iframe');
       iframe.loading = 'lazy';
       iframe.title = 'Product Viewer';
-      iframe.src = 'https://alterproduct.com/app/viewer/5z';
+      iframe.src = 'https://alterproduct.com/app/viewer/1';
       iframe.width = '100%';
       iframe.height = '100%';
       iframe.frameBorder = '0';
